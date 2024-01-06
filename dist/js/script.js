@@ -38,7 +38,10 @@ function updateListSkills() {
         "JavaScript",
         "PHP",
         "Java",
-        "Tailwind"
+        "CodeIgniter",
+        "Laravel",
+        "TailwindCSS",
+        "Bootstrap"
     ];
     skillsList.forEach(function(item) {
         const newItem = document.createElement("li");
